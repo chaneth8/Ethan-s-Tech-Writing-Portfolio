@@ -5,7 +5,3 @@ My technical writing portfolio, written using HTML and CSS. Feel free to use it 
 ## Special Thanks To Sylwia Vargas! 
 
 The code for my portfolio is based off of the code for [Sylwia Vargas'](https://github.com/sylwiavargas) portfolio, which I used with her permission. Her portfolio can be accessed  on [Github](https://github.com/sylwiavargas/Tech-Writing-Linktree/blob/main/readme.md) and [online](https://tech-writer.netlify.app/).
-
-## To Access The Final Product:
-
-[Click here](https://chaneth8.github.io/Ethan-s-Tech-Writing-Portfolio/)
