@@ -1,6 +1,6 @@
 # Technical Writing Portfolio
 
-My technical writing portfolio, written using HTML, CSS and Javascript. Feel free to use it as a template for your own portfolio! 
+My technical writing portfolio, written using HTML and CSS. Feel free to use it as a template for your own portfolio! 
 
 ## Special Thanks To Sylwia Vargas! 
 
